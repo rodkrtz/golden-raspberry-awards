@@ -12,7 +12,7 @@ Após o carregamento do projeto, acessar o link:
 
 http://localhost:8080/producers/prizes-interval
 
-### Para executar os testes **
+### Para executar os testes
 
 Na raiz do projeto, executar:
 
